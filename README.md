@@ -1,6 +1,6 @@
-# Godot rTextPacker Binary SpriteSheet Importer
+# Godot rTexPacker SpriteSheet Importer
 
-A Godot importer for binary spritesheets with the `rtpb` atlas descriptor file format generated with [rTexPacker](https://raylibtech.itch.io/rtexpacker).
+A Godot importer for spritesheets with the `rtpb` atlas descriptor file format created with [rTexPacker](https://raylibtech.itch.io/rtexpacker).
 
 ## Usage
 - Add the atlas image file and rtpb file into the same folder.
